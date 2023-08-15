@@ -16,8 +16,10 @@ Nominatim does not return a valid latitude and longitude for areas like oceans, 
 
 Images:  
 
-Address Search
+Address Search   
+
 ![image](https://github.com/Swebi/Distance-Finder/assets/82446436/66be5f0b-5d14-46e0-9188-ba1b47290d9f)
 
-Coordinates (Right Click) Search  
+Coordinates (Right Click) Search    
+
 ![image](https://github.com/Swebi/Distance-Finder/assets/82446436/2725afee-93b9-484b-b30c-f96e74a516d4)
