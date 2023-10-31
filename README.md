@@ -1,4 +1,4 @@
-# Distance-Finder
+# MapMiles
 Interactive Map Based Python GUI based project to find the distance between two places either through search or through coordinates. Made using Geopy, Nominatim, TkinterMapView, CustomTkinter  
 
 
